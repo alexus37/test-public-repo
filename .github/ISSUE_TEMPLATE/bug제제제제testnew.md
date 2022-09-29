@@ -1,5 +1,5 @@
 ---
-name: Bug제제제제test
+name: Bug제제제제testNEW
 about: Create a report to help us improve
 title: ''
 labels: ''
